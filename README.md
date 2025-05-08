@@ -7,7 +7,7 @@
 ### Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/leaya-sultana-74b1a21b4" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leaya-sultana-74b1a21b4" height="30" width="40" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/leaya-sultana-74b1a21b4/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leaya-sultana-74b1a21b4/" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 ### Languages and Tools:
