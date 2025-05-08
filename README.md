@@ -53,7 +53,7 @@
 
 ## 📊 GitHub Overview
 
-<table>
+<table style="border:0px">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214" alt="Top Languages" />
