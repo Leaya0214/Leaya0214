@@ -51,11 +51,18 @@
 </p>
 
 
-##Github Logs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Overview
 
-## 📈 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Leaya0214&show_icons=true&theme=default" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-![Leaya Sultana Stats](https://github-readme-stats.vercel.app/api?username=Leaya0214&show_icons=true&theme=default)
 
 
