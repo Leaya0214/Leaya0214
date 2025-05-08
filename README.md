@@ -53,16 +53,15 @@
 
 ## 📊 GitHub Overview
 
-<table style="border:0px">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Leaya0214&show_icons=true&theme=default" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<div>
+  .col-md-3
+</div>
+
+## 📊 GitHub Overview
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214&layout=compact" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Leaya0214&show_icons=true&theme=default" alt="GitHub Stats" width="400"/>
+
 
 
 
