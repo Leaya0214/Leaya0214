@@ -22,9 +22,9 @@
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40" />
   
-  <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
-  
+  <!-- Tailwind CSS (external source since not in Devicon properly) -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
   
@@ -37,18 +37,19 @@
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40" />
   
-  <!-- Laravel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" />
+  <!-- Laravel (using custom source because of devicon issues) -->
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40" />
   
-  <!-- CodeIgniter (Icon not available in devicon; using custom image or omitting) -->
+  <!-- CodeIgniter (not available in Devicon) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Codeigniter.svg" alt="CodeIgniter" width="40" height="40" />
   
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="40" />
   
-  <!-- REST API (no icon in Devicon; using badge as a fallback) -->
+  <!-- REST API Badge -->
   <img src="https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API" height="30" />
 </p>
+
 
 ##Github Logs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214)](https://github.com/anuraghazra/github-readme-stats)
