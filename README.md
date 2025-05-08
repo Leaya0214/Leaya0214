@@ -41,7 +41,7 @@
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40" />
   
   <!-- CodeIgniter (not in Devicon, using Wikipedia source) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Codeigniter.svg" alt="CodeIgniter" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Codeigniter.svg" alt="CodeIgniter" width="40" height="40" />
   
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="40" />
