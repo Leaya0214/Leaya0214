@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Your Name]
 
-<!--
-**Leaya0214/Leaya0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** at **STITBD**, passionate about crafting efficient and scalable web applications.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** PHP, JavaScript
+- **Frameworks:** Laravel, CodeIgniter
+- **Libraries:** jQuery
+- **Others:** [Add any other tools or technologies you're proficient in]
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/leaya-sultana-74b1a21b4/)
+- [Email](leayasultana@example.com)
