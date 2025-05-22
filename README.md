@@ -54,7 +54,8 @@
 ## 📊 GitHub Overview
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214&layout=compact" alt="Top Languages" width="400" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214&layout=compact&langs_count=10&theme=default" alt="Top Languages" width="400" height="300"/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=Leaya0214&show_icons=true&include_all_commits=true&count_private=true"  width="400" height="300"/>
 </p>
 
