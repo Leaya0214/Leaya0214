@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leaya Sultana</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Laravel Advance Things**
+- 🌱 I’m currently learning **Advanced Laravel Concepts**
 - 📫 How to reach me <a>leayasultana@gmail.com</a>
 
 ### Let's Connect
