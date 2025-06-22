@@ -28,8 +28,8 @@
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
   
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <!-- React 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />-->
   
   <!-- MySQL (external source since Devicon CDN is broken) -->
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" />
@@ -52,11 +52,11 @@
 
 
 ## 📊 GitHub Overview
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Leaya0214&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&theme=default" alt="GitHub Stats" width="400" height="300"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214&layout=compact&langs_count=10&theme=default" alt="Top Languages" width="400" height="300"/>
-</p>
+</p> -->
 
 <!-- GitHub Contributions Graph -->
 <p align="left">
