@@ -52,21 +52,21 @@
 
 
 ## 📊 GitHub Overview
-<!-- <p align="left">
+ <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Leaya0214&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&theme=default" alt="GitHub Stats" width="400" height="300"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214&layout=compact&langs_count=10&theme=default" alt="Top Languages" width="400" height="300"/>
-</p> -->
+</p> 
 
-<!-- GitHub Contributions Graph -->
+<!-- GitHub Contributions Graph 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leaya0214&theme=github-light&hide_border=true&area=true" alt="GitHub Activity Graph" width="800"/>
-</p>
+</p>-->
 
-<!-- Total Contributions (Alternative) -->
+<!-- Total Contributions (Alternative) 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leaya0214&theme=github" alt="Total Contributions" width="800"/>
-</p>
+</p>-->
 
 
 
