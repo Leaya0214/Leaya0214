@@ -14,10 +14,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Laravel-based ERP & Management Systems**
-- 🌱 Currently deep-diving into **Advanced Laravel Concepts**, **Queues**, and **REST APIs**
+- 🌱 Currently deep-diving into **Advanced Laravel Concepts**
 - 💡 Always open to learning new technologies and working on exciting real-world projects
-- 📝 I occasionally write about Laravel, PHP, and career learnings on LinkedIn
 - 📬 Reach me at **leayasultana@gmail.com**
 
 ---
