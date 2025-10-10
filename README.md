@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer from Bangladesh</h3>
 
 <p align="center">
-  <a href="https://www.leetcode.com/Leaya0214" target="_blank">
+  <a href="https://leetcode.com/u/Leaya/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Leaya0214-orange?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/leaya-sultana-74b1a21b4/" target="_blank">
@@ -20,14 +20,15 @@
 
 <p>Hi there 👋</p>
 <p style="text-indent: 20px;">
-  I am <strong>Leaya Sultana</strong>. I am currently working at <strong>STITBD</strong> as a Software Developer.<br>
-  I'm currently building a <strong>HR system</strong> and also a <strong>Real Estate ERP</strong> under my current company.<br>
-  I've completed my undergrad in <strong>Computer Science & Engineering</strong> from ISTT.<br>
+  I am <strong>Leaya Sultana</strong>. I am currently working at <strong>STITBD</strong> as a Software Developer.
+  I'm currently building a <strong>HR system</strong> and also a <strong>Real Estate ERP</strong> under my current company.
+  I've completed my undergrad in <strong>Computer Science & Engineering</strong> from ISTT.
   Besides tech, I am fairly invested in <strong>reading, movies</strong>, and sometimes <strong>writing</strong> as well.
 </p>
-<p style="text-indent: 20px; font-style: italic;">
-  💡 I’m open to new opportunities in the domains of Backend Engineering, Systems, and Microservices.
+<p>
+  💡 <span style="font-style: italic;">I’m open to new opportunities in the domains of Backend Engineering, Systems, and Microservices.</span>
 </p>
+
 
 📬 Reach me at **leayasultana@gmail.com**  
 
