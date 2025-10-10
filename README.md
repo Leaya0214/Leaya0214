@@ -47,10 +47,17 @@
 
 ---
 
-### 📊 GitHub Stats  
+<h2>📊 GitHub Stats</h2>
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214&layout=compact&theme=vue&hide_border=true" width="400" />
 </p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Leaya0214&show_icons=true&count_private=true&theme=vue&hide_border=true" width="400" />
+</p>
+
 
 ---
 
