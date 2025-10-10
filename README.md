@@ -25,9 +25,9 @@
   I've completed my undergrad in <strong>Computer Science & Engineering</strong> from ISTT.
   Besides tech, I am fairly invested in <strong>reading, movies</strong>, and sometimes <strong>writing</strong> as well.
 </p>
-<p>
-  💡 <span style="font-style: italic;">I’m open to new opportunities in the domains of Backend Engineering, Systems, and Microservices.</span>
-</p>
+
+  > 💡 *I’m open to new opportunities in the domains of Backend Engineering, Systems, and Microservices*.
+
 
 📬 Reach me at **leayasultana@gmail.com**  
 ---
