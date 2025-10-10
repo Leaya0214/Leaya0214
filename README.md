@@ -18,14 +18,16 @@
 
 ---
 
-### 👩‍💻 About Me  
-Hi there 👋  
-I am **Leaya Sultana**, a passionate **Software Engineer** who loves building scalable and high-quality applications.  
-Currently I’m deep-diving into **Advanced Laravel concepts** and building real-world projects with **PHP, Laravel, Vue.js, and MySQL**.  
-I enjoy solving problems, learning new technologies, and sharing knowledge.  
-Besides tech, I’m also interested in movies, reading, and traveling.  
-
-💡 I’m open to new opportunities in the domains of **Backend Engineering, Systems, and Microservices**.  
+<p>Hi there 👋</p>
+<p style="text-indent: 20px;">
+  I am <strong>Leaya Sultana</strong>. I am currently working at <strong>STITBD</strong> as a Software Developer.<br>
+  I'm currently building a <strong>HR system</strong> and also a <strong>Real Estate ERP</strong> under my current company.<br>
+  I've completed my undergrad in <strong>Computer Science & Engineering</strong> from ISTT.<br>
+  Besides tech, I am fairly invested in <strong>reading, movies</strong>, and sometimes <strong>writing</strong> as well.
+</p>
+<p style="text-indent: 20px; font-style: italic;">
+  💡 I’m open to new opportunities in the domains of Backend Engineering, Systems, and Microservices.
+</p>
 
 📬 Reach me at **leayasultana@gmail.com**  
 
