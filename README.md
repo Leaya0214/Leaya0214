@@ -1,5 +1,20 @@
-<h1 align="center">👋 Hello there, This is Leaya</h1>
-<h3 align="center">🚀 A Passionate Software Engineer from Bangladesh</h3>
+<h1 align="center"> ~~Hello there! This is Leaya~~</h1>
+<h3 align="center">A Passionate Software Engineer from Bangladesh</h3>
+
+<p align="center">
+  <a href="https://www.leetcode.com/Leaya0214" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Leaya0214-orange?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/leaya-sultana-74b1a21b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Leaya%20Sultana-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Leaya0214" target="_blank">
+    <img src="https://img.shields.io/github/followers/Leaya0214?label=GitHub%20Followers&style=flat-square&logo=github" />
+  </a>
+  <a href="https://github.com/Leaya0214" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Leaya0214&style=flat-square&color=blue" />
+  </a>
+</p>
 
 ---
 
