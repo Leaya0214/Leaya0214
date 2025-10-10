@@ -34,15 +34,16 @@
 
 ---
 
-### 🛠️ Tech Stack  
+<h2>🛠️ Tech Stack</h2>
+<ul>
+  <li><strong>Languages:</strong> PHP, JavaScript, SQL, C++,Python</li>
+  <li><strong>Backend:</strong> Laravel, CodeIgniter, RESTful APIs,Inertia.js</li>
+  <li><strong>Frontend:</strong> Vue.js, jQuery, Bootstrap</li>
+  <li><strong>Database:</strong> MySQL, PostgreSQL</li>
+  <li><strong>Tools:</strong> Git, GitHub workflow, Postman, cPanel</li>
+  <li><strong>Testing:</strong>PHP Unit Testing</li>
+</ul>
 
-**Languages** – PHP, JavaScript, SQL  
-**Backend** – Laravel, CodeIgniter, RESTful APIs  
-**Frontend** – Vue.js, jQuery, Bootstrap, Tailwind CSS  
-**Database** – MySQL  
-**Tools** – Git, GitHub, Postman, cPanel  
-**Infra** – Linux, Docker (basic)  
-**Productivity** – Jira, MS PowerPoint  
 
 ---
 
