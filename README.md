@@ -29,9 +29,7 @@
   💡 <span style="font-style: italic;">I’m open to new opportunities in the domains of Backend Engineering, Systems, and Microservices.</span>
 </p>
 
-
 📬 Reach me at **leayasultana@gmail.com**  
-
 ---
 
 <h2>🛠️ Tech Stack</h2>
@@ -43,20 +41,21 @@
   <li><strong>Tools:</strong> Git, GitHub workflow, Postman, cPanel</li>
   <li><strong>Testing:</strong>PHP Unit Testing</li>
 </ul>
-
-
 ---
-
 <h2>📊 GitHub Stats</h2>
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214&layout=compact&theme=vue&hide_border=true" width="400" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaya0214&layout=compact&theme=vue&hide_border=true" width="400" />
+    </td>
+    <td>
+      <!-- Overall GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Leaya0214&show_icons=true&count_private=true&theme=vue&hide_border=true" width="400" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Leaya0214&show_icons=true&count_private=true&theme=vue&hide_border=true" width="400" />
-</p>
 
 
 ---
