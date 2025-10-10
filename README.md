@@ -41,7 +41,9 @@
   <li><strong>Tools:</strong> Git, GitHub workflow, Postman, cPanel</li>
   <li><strong>Testing:</strong>PHP Unit Testing</li>
 </ul>
+
 ---
+
 <h2>📊 GitHub Stats</h2>
 <table align="center">
   <tr>
@@ -55,20 +57,6 @@
     </td>
   </tr>
 </table>
-
-
-
----
-
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/leaya-sultana-74b1a21b4/" target="_blank">
-    <img src="https://img.shields.io/badge/Leaya Sultana-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:leayasultana@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-leayasultana@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
